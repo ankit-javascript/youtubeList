@@ -14,6 +14,9 @@
 
 ## Deployment Link
 
+[Live Demo](https://youtube-list-eu08.onrender.com)
+
+
 
 ## How to Use
 
@@ -25,6 +28,11 @@
 
 ## Installation
 
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/ankit-javascript/youtubeList.git
+   ```
 2. Open `index.html` in a browser.
 3. Start tracking your moods!
 
